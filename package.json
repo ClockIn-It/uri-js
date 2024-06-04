@@ -1,6 +1,6 @@
 {
-  "name": "uri-js",
-  "version": "4.4.1",
+  "name": "@clockinit/uri-js",
+  "version": "4.5.0",
   "description": "An RFC 3986/3987 compliant, scheme extendable URI/IRI parsing/normalizing/resolving/serializing library for JavaScript.",
   "main": "dist/es5/uri.all.js",
   "types": "dist/es5/uri.all.d.ts",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/garycourt/uri-js"
+    "url": "https://github.com/ClockIn-It/uri-js"
   },
   "keywords": [
     "URI",
@@ -55,9 +55,9 @@
   "author": "Gary Court <gary.court@gmail.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/garycourt/uri-js/issues"
+    "url": "https://github.com/ClockIn-It/uri-js/issues"
   },
-  "homepage": "https://github.com/garycourt/uri-js",
+  "homepage": "https://github.com/ClockIn-It/uri-js",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-external-helpers": "^6.22.0",
